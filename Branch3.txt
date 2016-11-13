@@ -1,3 +1,5 @@
 My Branch 3
 
 Adding new Feature 1.
+
+Adding new Feature 2.
