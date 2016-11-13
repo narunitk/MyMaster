@@ -5,3 +5,5 @@ Adding new Feature 1.
 Adding new Feature 2.
 
 Adding new Feature 3.
+
+Adding new Feature 4.
